@@ -2648,7 +2648,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.data.factory-V2.1-java \
     vendor.qti.data.slm-V1.0-java \
     vendor.qti.hardware.alarm-V1.0-java \
-    vendor.qti.hardware.bluetooth_dun-V1.0-java \
     vendor.qti.hardware.data.cne.internal.api-V1.0-java \
     vendor.qti.hardware.data.cne.internal.constants-V1.0-java \
     vendor.qti.hardware.data.connection-V1.0-java \
